@@ -1,6 +1,6 @@
 Capstone Design Project - Jennifer Schror & John Moffitt
 
-A moving platform consisting of a servomotor, load sensors, and an arduino aids in physical therapy for the wrist. See pdf and jpg for more info.
+A moving platform consisting of a servomotor, load sensors, and an arduino aids in physical therapy for the wrist. See pptx for more info and pics.
 
 Arduino code:
 
